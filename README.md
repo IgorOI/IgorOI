@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
   <img align="center" alt="Igor-VisualStudio" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Igor-Git" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Igor-Jenkins" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/jenkins-original-wordmark.svg">
+  <img align="center" alt="Igor-Jenkins" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original-wordmark.svg">
   
 </div>  
   
